@@ -19,6 +19,7 @@ html {
     padding: 2%;
     height: 20%;
     width: 50%;
+    border-radius: 10px;
     background-color: #c7685d;
 }
 #questionForm{
