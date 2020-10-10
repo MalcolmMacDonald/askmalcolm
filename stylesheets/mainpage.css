@@ -11,7 +11,7 @@ html {
     width: 100%;
     height: 100%;
 }
-#question{
+#questionBox{
     display: flex;
     flex-direction: column;
     justify-items: center;
